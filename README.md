@@ -14,4 +14,5 @@
 | | 채널코퍼레이션(채널톡)	 |  | |  | [채용 사이트](https://channel.io/ko/jobs) |  |
 | | 인프랩(인프런)	 |  | | NestJS | [채용 사이트](https://inflab.oopy.io/) |  |
 | | 로보코리아(로보)	 |  | | NestJS| [채용 사이트](https://orbisailovo.notion.site/LOVO-db490c88a5384f778e913c614b7f6530) |  |
-| | 아임웹(아임웹)	 |  | | NestJS | [채용 사이트](https://career.imweb.me/) |  |
+| | 아임웹	 |  | | NestJS | [채용 사이트](https://career.imweb.me/) |  |
+| | 아프리카티비	 |  | | NestJS | [채용 사이트](https://recruit.afreecatv.com/recruit_list.php) |  |
