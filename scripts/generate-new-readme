@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+const makeReadme = require('./makeReadme');
+
+try {
+    makeReadme();
+} catch (error) {
+    console.error(error);
+    process.exit(1);
+}

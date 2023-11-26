@@ -1,10 +1,14 @@
 {
-    "official": true,
-    "name": "이제이엔(트윕/트게더)",
-    "nodeDevloperRate": 100,
-    "nodeProjectRate": 100,
-    "frameworks": ["NestJS"],
-    "link": "https://www.ejn.team/",
-    "remoteWork": false,
-    "army": ["산업기능요원"],
+  "official": true,
+  "name": "이제이엔(트윕/트게더)",
+  "nodeDeveloperRate": 100,
+  "nodeProjectRate": 100,
+  "frameworks": [
+    "NestJS"
+  ],
+  "link": "https://www.ejn.team/",
+  "remoteWork": false,
+  "army": [
+    "산업기능요원"
+  ]
 }
