@@ -18,3 +18,4 @@
 | | 아프리카티비	 |  | | NestJS | [채용 사이트](https://recruit.afreecatv.com/recruit_list.php) |  |
 | | 바로고	 |  | |  | [채용 사이트](https://career.barogo.com/recruit) |  |
 | | 휴먼스케이프(마미톡)	 |  | | NestJS | [채용 사이트](https://humanscape.notion.site/Walk-with-us-cf598bdb4e9c47cd87fde501d42e169a) |  |
+| | 수퍼빈	 |  | | NestJS | [채용 사이트](https://superbin.co.kr/team/jobs) |  |
