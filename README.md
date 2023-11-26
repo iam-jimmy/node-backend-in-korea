@@ -10,3 +10,4 @@
 |공식 여부| 회사명 | NodeJS/BE 개발자 비율 | NodeJS 프로젝트 비율 | 사용 프레임워크 | 채용 링크 | 원격 근무 | 
 |:------: |:------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
 | <img src="https://github.com/ejn-jimmy/node-backend-in-korea/assets/142366502/e5e8cf74-3c26-4705-b56c-97fb3c6e11bf" width="20" height="20"/> | 이제이엔(트윕/트게더) | 100% | 70% | NestJS | [채용 사이트](https://www.ejn.team/) | X |
+| | 비바리퍼블리카(토스)	 |  | |  | [채용 사이트](https://toss.im/career/jobs?search=node) | O |
