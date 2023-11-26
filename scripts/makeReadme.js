@@ -68,7 +68,7 @@ function convertCorpInfoToRow(corpInfo){
         link: corpInfo.link,
         army: corpInfo.army,
         official: corpInfo.official && `<img src="https://github.com/ejn-jimmy/node-backend-in-korea/assets/142366502/e5e8cf74-3c26-4705-b56c-97fb3c6e11bf" width="20" height="20"/>`,
-        remoteWork: corpInfo.remoteWork ? 'O' : 'X',
+        remoteWork: corpInfo.remoteWork === null ? '' : corpInfo.remoteWork ? 'O' : 'X',
         frameworks: corpInfo.frameworks,
         nodeProjectRate: corpInfo.nodeProjectRate === 0 ? '' : `${corpInfo.nodeProjectRate}%`,
         nodeDeveloperRate: corpInfo.nodeDeveloperRate === 0 ? '' : `${corpInfo.nodeDeveloperRate}%`,

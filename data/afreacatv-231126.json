@@ -1,0 +1,14 @@
+{
+  "official": false,
+  "name": "아프리카티비",
+  "nodeDeveloperRate": null,
+  "nodeProjectRate": null,
+  "frameworks": [
+    "NestJS"
+  ],
+  "link": "https://recruit.afreecatv.com/recruit_list.php",
+  "remoteWork": null,
+  "army": [
+    "산업기능요원"
+  ]
+}

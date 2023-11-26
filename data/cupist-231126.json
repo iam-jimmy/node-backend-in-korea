@@ -1,0 +1,14 @@
+{
+  "official": false,
+  "name": "큐피스트 (글램)",
+  "nodeDeveloperRate": null,
+  "nodeProjectRate": null,
+  "frameworks": [
+    "NestJS"
+  ],
+  "link": "https://www.cupist.com/hiring",
+  "remoteWork": null,
+  "army": [
+    "산업기능요원"
+  ]
+}

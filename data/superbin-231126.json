@@ -1,0 +1,14 @@
+{
+  "official": false,
+  "name": "수퍼빈",
+  "nodeDeveloperRate": null,
+  "nodeProjectRate": null,
+  "frameworks": [
+    "NestJS"
+  ],
+  "link": "https://superbin.co.kr/team/jobs",
+  "remoteWork": null,
+  "army": [
+    "전문연구요원"
+  ]
+}

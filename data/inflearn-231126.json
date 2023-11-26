@@ -1,0 +1,14 @@
+{
+  "official": false,
+  "name": "인프랩(인프런)",
+  "nodeDeveloperRate": null,
+  "nodeProjectRate": null,
+  "frameworks": [
+    "NestJS"
+  ],
+  "link": "https://inflab.oopy.io/",
+  "remoteWork": null,
+  "army": [
+    "산업기능요원"
+  ]
+}

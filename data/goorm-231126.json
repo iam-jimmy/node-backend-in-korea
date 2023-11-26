@@ -1,0 +1,14 @@
+{
+  "official": false,
+  "name": "구름",
+  "nodeDeveloperRate": null,
+  "nodeProjectRate": null,
+  "frameworks": [
+    "NestJS"
+  ],
+  "link": "https://goorm.co/recruit",
+  "remoteWork": null,
+  "army": [
+    "산업기능요원"
+  ]
+}
