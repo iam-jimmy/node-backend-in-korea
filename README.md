@@ -12,6 +12,6 @@
 | <img src="https://github.com/ejn-jimmy/node-backend-in-korea/assets/142366502/e5e8cf74-3c26-4705-b56c-97fb3c6e11bf" width="20" height="20"/> | 이제이엔(트윕/트게더) | 100% | 70% | NestJS | [채용 사이트](https://www.ejn.team/) | X |
 | | 비바리퍼블리카(토스)	 |  | |  | [채용 사이트](https://toss.im/career/jobs?search=node) | O |
 | | 채널코퍼레이션(채널톡)	 |  | |  | [채용 사이트](https://channel.io/ko/jobs) |  |
-| | 인프랩(인프런)	 |  | |  | [채용 사이트](https://inflab.oopy.io/) |  |
+| | 인프랩(인프런)	 |  | | NestJS | [채용 사이트](https://inflab.oopy.io/) |  |
 | | 로보코리아(로보)	 |  | | NestJS| [채용 사이트](https://orbisailovo.notion.site/LOVO-db490c88a5384f778e913c614b7f6530) |  |
 
