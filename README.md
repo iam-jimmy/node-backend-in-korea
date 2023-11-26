@@ -16,3 +16,4 @@
 | | 로보코리아(로보)	 |  | | NestJS| [채용 사이트](https://orbisailovo.notion.site/LOVO-db490c88a5384f778e913c614b7f6530) |  |
 | | 아임웹	 |  | | NestJS | [채용 사이트](https://career.imweb.me/) |  |
 | | 아프리카티비	 |  | | NestJS | [채용 사이트](https://recruit.afreecatv.com/recruit_list.php) |  |
+| | 바로고	 |  | |  | [채용 사이트](https://career.barogo.com/recruit) |  |
