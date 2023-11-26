@@ -19,3 +19,10 @@
 | | 바로고	 |  | |  | [채용 사이트](https://career.barogo.com/recruit) |  |
 | | 휴먼스케이프(마미톡)	 |  | | NestJS | [채용 사이트](https://humanscape.notion.site/Walk-with-us-cf598bdb4e9c47cd87fde501d42e169a) |  |
 | | 수퍼빈	 |  | | NestJS | [채용 사이트](https://superbin.co.kr/team/jobs) |  |
+| | 리디	 |  | |  | [채용 사이트](https://ridi.career.greetinghr.com/recruit#92e8e79f-2e0a-4e3a-93d6-14e7be305fb7) |  |
+| | 큐피스트 (글램)	 |  | | NestJS | [채용 사이트](https://www.cupist.com/hiring) |  |
+| | 크리에이트립	 |  | | NestJS | [채용 사이트](https://career.creatrip.team/home#f091e1dc-28de-4dd3-8a2f-0c2ef9d6ffe2) |  |
+| | 클라썸	 |  | |  | [채용 사이트](https://classum.career.greetinghr.com/apply#c5a9a369-031c-4cf1-867a-c1907b96d4db) |  |
+| | 클래스팅 |  | |  | [채용 사이트](https://careers.classting.com/recruit) |  |
+| | 구름	 |  | | NestJS | [채용 사이트](https://goorm.co/recruit) |  |
+| | 넛지헬스케어(캐시워크) |  | | NestJS | [채용 사이트](https://cashwalk12.career.greetinghr.com/) |  |
